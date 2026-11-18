@@ -205,5 +205,5 @@ The build script in this repo is released under the MIT license — see
   [Lua 5.4.7 for SCO](https://github.com/tachytelic/Lua-5.4.7-for-SCO-OpenServer-5),
   [rsync 3.2.7 for SCO](https://github.com/tachytelic/rsync-3.2.7-for-SCO-OpenServer-5)
   — sibling builds.
-- [More SCO OpenServer 5 binaries](https://tachytelic.net/2017/07/sco-openserver-5-binaries/)
+- [More SCO OpenServer 5 binaries](https://scoexpert.com/guides/sco-openserver-5-binaries/)
   — the hub.
